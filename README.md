@@ -54,6 +54,8 @@ Here is the learning path we suggest you to follow if you are starting to learn 
 
 * **[Single-qubit measurements (tutorial)](./tutorials/SingleQubitSystemMeasurements/)**.
   Learn what quantum measurement is and how to use it for single-qubit systems.
+* **[Multi-qubit measurements (tutorial)](./tutorials/MultiQubitSystemMeasurements/)**.
+  Learn to use measurements for multi-qubit systems.
 * **[Measurements](./Measurements/)**.
   Learn to distinguish quantum states using measurements.
 * **[Distinguish unitaries](./DistinguishUnitaries/)**.
@@ -79,7 +81,7 @@ Here is the learning path we suggest you to follow if you are starting to learn 
 
 * **[Quantum oracles (tutorial)](./tutorials/Oracles/)**.
   Learn to implement classical functions as equivalent quantum oracles. 
-* **[Exploring Deutsch–Jozsa algorithm (tutorial)](./tutorials/ExploringDeutschJozsaAlgorithm/)**.
+* **[Exploring Deutsch and Deutsch–Jozsa algorithms (tutorial)](./tutorials/ExploringDeutschJozsaAlgorithm/)**.
   Learn to implement classical functions and equivalent quantum oracles, and compare the quantum
   solution to the Deutsch–Jozsa problem to a classical one.
 * **[Deutsch–Jozsa algorithm](./DeutschJozsaAlgorithm/)**.
@@ -135,7 +137,7 @@ Here is the learning path we suggest you to follow if you are starting to learn 
 
 ## Run the katas and tutorials online <a name="run-online" /> ##
 
-The Quantum Katas are now available as Jupyter Notebooks online! See [index.ipynb](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/main?filepath=index.ipynb) for the list of all katas and tutorials, and instructions for running them online.
+The Quantum Katas are now available as Jupyter Notebooks online! See [index.ipynb](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/main?urlpath=/notebooks/index.ipynb) for the list of all katas and tutorials, and instructions for running them online.
 
 > While running the Katas online is the easiest option to get started, if you want to save your progress and enjoy better performance, we recommend you to choose the local option. 
 
